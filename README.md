@@ -89,11 +89,6 @@ Contributions are welcome! Follow these steps:
 
 ---
 
-## 📄 License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## 🌐 Social
 Connect with me on social media:
 - [GitHub](https://github.com/hazelpalopealmachar/almachar.github.io) 🐙
